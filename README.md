@@ -8,4 +8,4 @@ This project is a simple analog clock built using HTML, CSS, and JavaScript. It 
 - Customizable clock face
 ### Installation
 1. Clone the repository:
-   git clone https://github.com/SabinaRasheed/VanillaWebProject.git
+   git clone https://github.com/SabinaRasheed/Vanilla-Web-Project.git
