@@ -51,7 +51,7 @@
     background-color: #f39c12; 
     border-radius: 50%;
     left: calc(50% - 5px);
-    top: calc(50% - 5px);
+    top: calc(50% - 5px); 
 }
 .number {
     position: absolute;
