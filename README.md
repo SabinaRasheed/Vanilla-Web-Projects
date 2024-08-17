@@ -9,3 +9,16 @@ This project is a simple analog clock built using HTML, CSS, and JavaScript. It 
 ### Installation
 1. Clone the repository:
    git clone https://github.com/SabinaRasheed/Vanilla-Web-Project.git
+
+# Calculator Project
+This is a simple calculator application built with HTML, CSS, and JavaScript.
+
+## Screenshot
+
+![Calculator Screenshot](Calculator/image.png)
+
+## Features
+
+- Basic arithmetic operations
+- Clear (AC) and delete (DEL) functions
+- Error handling for invalid expressions
