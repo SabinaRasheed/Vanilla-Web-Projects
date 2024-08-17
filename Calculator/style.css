@@ -11,8 +11,15 @@ body {
     align-items: center;
     height: 100vh;
     background: linear-gradient(109.6deg, rgb(0, 0, 0) 11.2%, rgb(11, 132, 145) 91.1%);
+    flex-direction: column;
 }
 
+h2 {
+    color: white;
+    text-align: center;
+    font-size: 24px;
+    margin-bottom:40px;
+}
 
 #container {
     max-width: 300px;

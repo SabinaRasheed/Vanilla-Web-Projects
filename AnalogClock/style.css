@@ -62,7 +62,7 @@
 }
 
 #number1 { top: 15%; left: 54%; transform: translateX(50%); }
-#number2 { top: 22%; left : 57%; transform: translateX(-50%); }
+#number2 { top: 22%; left : 58%; transform: translateX(-50%); }
 #number3 { top: 32%; left: 58%; transform: translateY(-50%); }
 #number4 { top: 38%; left: 57%; transform: translateX(-50%); }
 #number5 { top: 44%; left: 54%; transform: translateX(-50%); }
@@ -70,7 +70,7 @@
 #number7 { top: 46%; left: 45%; transform: translateY(-50%); }
 #number8 { top: 40%; left: 42%; transform: translateY(-50%); }
 #number9 { top: 32%; left: 41%; transform: translateY(-50%); }
-#number10 { top: 24%; left: 42%; transform: translateY(-50%); }
+#number10 { top: 24%; left: 41%; transform: translateY(-50%); }
 #number11 { top: 15%; left: 45%; transform: translateX(-50%); } 
 #number12 { top: 12%; left: 50%; transform: translateX(-50%); }  
 
